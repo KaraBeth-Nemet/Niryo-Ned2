@@ -11,3 +11,7 @@ https://github.com/NiryoRobotics/ned_applications/tree/master/examples
 https://niryo.com/products-cobots/accessories-kit/
 
 ^^ Accessories we should get eventually
+
+
+##Problems I Am Having As A Whole
+- Can only stop a running program from the dashboard
