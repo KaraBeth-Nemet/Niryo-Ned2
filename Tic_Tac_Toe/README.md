@@ -9,3 +9,4 @@ https://archive-docs.niryo.com/applications/ned/v1.0.4/en/source/examples/vision
 ## Problems I Have Run Into
 - Can not get .yaml file onto Ned2 without using vim
 - yaml.load is deprecated and needs to have a work around to be able to work
+- Payload Size is not working... I'm guessing its too big?
