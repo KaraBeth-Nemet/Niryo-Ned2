@@ -271,6 +271,7 @@ def load_yaml(path_):
         else:
             with open(path_, 'r') as f:
                 saved_items = yaml.load(f)
+                #saved_items = yaml.load(f, Loader=yaml.FullLoader)
         return saved_items
     else:
         print("Empty or missing file: {}".format(path_))
